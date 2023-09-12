@@ -16,4 +16,6 @@
 - 📉 Net change in population wrt previous year
 - 📈 Detailed visual tables about Countries, including parameters like Land area, Population, Yearly change, Median age, Migrants(net) and Fertility rate for each of them.
 
+### Dashboard
 
+<img src="E:\Progitech Internship\Task1-World Population\Dashboard.png" width="30px"/>
