@@ -15,4 +15,3 @@
 - 🗺️ Breakdown of population based on countries and their % share
 - 📉 Net change in population wrt previous year
 - 📈 Detailed visual tables about Countries, including parameters like Land area, Population, Yearly change, Median age, Migrants(net) and Fertility rate for each of them.
-
