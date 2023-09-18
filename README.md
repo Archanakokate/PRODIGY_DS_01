@@ -17,7 +17,8 @@
 - 📈 Detailed visual tables about Countries, including parameters like Land area, Population, Yearly change, Median age, Migrants(net) and Fertility rate for each of them.
 
 
-## Dashboard
+## Dashboard : 
+
 
 
 ![Dashboard](https://github.com/Archanakokate/PRODIGY_DS_01/assets/115995897/eb1674de-c6a8-4f85-ba6c-d1f20da4e057)
